@@ -1,7 +1,9 @@
 /********************************************************************************************************
 This example Arduino sketch is meant to work with Anabit's Reflex DAC 14 Bit 2MSPS bipolar output +/- 4.096 
 open source reference design
-Product link: 
+
+Product link: https://anabit.co/products/reflex-dac-14-bit-2msps-4v-range/
+
 This example sketch demonstrates how to output 4 different voltage patterns from the 14 bit DAC. 
 This portable version targets ANY Arduino board with hardware SPI and uses standard digitalWrite()
 for the chip select (CS) pin. The DAC is driven over SPI using the board's default SPI pins.
